@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bilkis-LN
+- 👋 Hi, I’m @Bilkis Lawal-Ndalolo
 - 👀 I’m interested in Business Analytics and Financial Analytics
 - 🌱 I’m currently learning Data Analytics; - Python, R, SQL, Power BI, Business Process Management, Business Intelligence
 - 💞️ I’m looking to collaborate on Business and Financial analytics
